@@ -1,4 +1,4 @@
-﻿# TaskFlow SQL (Non-MERN)
+﻿# TaskFlow  (Trello-Clone)
 
 This project recreates the TaskFlow Kanban UI in the current `task` folder using:
 
